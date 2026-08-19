@@ -1,1 +1,1 @@
-# name|version|arch|filename|sha256
+# name|version|filename|sha256

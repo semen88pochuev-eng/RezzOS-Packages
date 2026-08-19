@@ -1,1 +1,3 @@
-# name|version|filename|sha256
+# name|version|arch|filename|sha256
+
+vim|9.0.0999-r0|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/vim-9.0.0999-r0/vim-9.0.0999-r0-x86_64.tar.gz|52286f3f5963d612ad14d9cbf38a295a38c8666bc0efb81a6ba8602c2210623e

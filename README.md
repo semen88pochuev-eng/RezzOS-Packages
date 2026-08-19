@@ -1,2 +1,4 @@
-# RezzOS-Packages
-Main repo packages for package manager in RezzOS
+The main 
+package repository
+for the package
+manager in RezzOS

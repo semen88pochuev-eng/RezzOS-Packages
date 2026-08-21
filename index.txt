@@ -6,3 +6,4 @@ dillo|3.0.5-r13|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/rel
 ca-certificates|20240226-r0|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/ca-certificates-20240226-r0/ca-certificates-20240226-r0-x86_64.tar.gz|979f06e65a8b3c6d775a69cd3a3275db2ed79f70f8a2542b617639980f061b2b
 curl|8.9.0-r0|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/curl-8.9.0-r0/curl-8.9.0-r0-x86_64.tar.gz|39fe7edca28970d13e4d88324d822bf91fb917e335ec03ef5f91364da4db329e
 badwolf|1.2.2-r1|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/badwolf-1.2.2-r1/badwolf-1.2.2-r1-x86_64.tar.gz|0a134e69104f96f7ff08033a26b8e86f203bd8449299c488ae71dbf242a2f6b2
+|jq|1.6-r2|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/jq-1.6-r2/jq-1.6-r2-x86_64.tar.gz|18e648913edbab0870094dfba37726af12dd4a749bac16d7d7c9d8ba586b2189

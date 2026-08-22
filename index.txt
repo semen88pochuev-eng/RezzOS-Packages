@@ -10,3 +10,4 @@ jq|1.6-r2|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/
 python3|3.10.15-r0|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/python3-3.10.15/python3-3.10.15-r0-x86_64.tar.gz|ec1a587a3103e8544e95aec34e9131180281e545c390e463f7e8fd134743ba8b
 syslinux|6.04_pre1-r11|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/syslinux-6.04_pre1-r11/syslinux-6.04_pre1-r11-x86_64.tar.gz|3bcde69b0e9a59fb7d37a8c93181cd1fb78228b414191aa566ea67dcbb4a0f59
 make|4.3-r1|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/make-4.3-r1/make-4.3-r1-x86_64.tar.gz|62e9525cd0fefe3138ec273425714369b3bf6c5afabef082a26e3e330ebfdac7
+binutils|2.39-r2|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/binutils-2.39-r2/binutils-2.39-r2-x86_64.tar.gz|90e03dcaa76b5ccdeab22c1663eac32821db0f4dc9f30c355484f0426eaffc73

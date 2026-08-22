@@ -8,3 +8,4 @@ curl|8.9.0-r0|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/relea
 badwolf|1.2.2-r1|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/badwolf-1.2.2-r1/badwolf-1.2.2-r1-x86_64.tar.gz|0a134e69104f96f7ff08033a26b8e86f203bd8449299c488ae71dbf242a2f6b2
 jq|1.6-r2|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/jq-1.6-r2/jq-1.6-r2-x86_64.tar.gz|18e648913edbab0870094dfba37726af12dd4a749bac16d7d7c9d8ba586b2189
 python|3.10.15-r0|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/python3-3.10.15/python3-3.10.15-r0-x86_64.tar.gz|ec1a587a3103e8544e95aec34e9131180281e545c390e463f7e8fd134743ba8b
+syslinux|6.04_pre1-r11|x86_64|https://github.com/semen88pochuev-eng/RezzOS-Packages/releases/download/syslinux-6.04_pre1-r11/syslinux-6.04_pre1-r11-x86_64.tar.gz|3bcde69b0e9a59fb7d37a8c93181cd1fb78228b414191aa566ea67dcbb4a0f59
